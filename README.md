@@ -1,3 +1,4 @@
+### Contenido
 Informe.pdf - El informe...
 
 Presentacion.pdf- La presentacion...
@@ -15,3 +16,5 @@ scripts/ Scripts con los que se generaron los datos:
 * entityRecognize.py: Encuentra entre los grafos generados cuales de las Wallets son las mismas y les asigna el mismo nombre en todos lso grafos.
 * tagger.py: Clasifica los nodos en Wallets, Servicios, Gambling, Otros
 * joiner.py: Junta todos los grafos y los exporta a un unico archivo csv que puede ser importado a neo4j.
+
+* **Marcelo Ortega**  - (marcetega [at] gmail )
