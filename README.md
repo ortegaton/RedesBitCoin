@@ -17,4 +17,5 @@ scripts/ Scripts con los que se generaron los datos:
 * tagger.py: Clasifica los nodos en Wallets, Servicios, Gambling, Otros
 * joiner.py: Junta todos los grafos y los exporta a un unico archivo csv que puede ser importado a neo4j.
 
-* **Marcelo Ortega**  - (marcetega [at] gmail )
+
+**Marcelo Ortega**  - (marcetega [at] gmail )
